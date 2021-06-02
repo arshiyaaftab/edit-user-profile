@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import UserForm from './src/screens/signup';
+import UserForm from './src/screens/editProfile';
 
 
 export default function App() {
